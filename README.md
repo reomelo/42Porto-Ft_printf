@@ -1,4 +1,4 @@
-![Screenshot from 2023-11-01 15-46-17](https://github.com/reomelo/42Porto-ft_printf/assets/73884501/cd2ce691-9e92-4c46-9d84-998a0c30b4af)
+![Screenshot from 2023-11-01 16-49-27](https://github.com/reomelo/42Porto-ft_printf/assets/73884501/5410d066-9534-459b-bcd3-406d5001fc37)
 
 ### Description of the project:
 This project consists of implementing a custom version of the C printf function.
